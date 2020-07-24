@@ -1,0 +1,36 @@
+{
+  "name": "onesignal",
+  "vendor": "vtex",
+  "version": "0.1.1",
+  "title": "OneSignal",
+  "description": "",
+  "categories": [],
+  "dependencies": {},
+  "builders": {
+    "node": "6.x",
+    "docs": "0.x",
+    "pixel": "0.x"
+  },
+  "credentialType": "absolute",
+  "policies": [
+    {
+      "name": "colossus-fire-event"
+    },
+    {
+      "name": "colossus-write-logs"
+    }
+  ],
+  "settingsSchema": {
+    "title": "OneSignal",
+    "type": "object",
+    "properties": {
+      "appId": {
+        "title": "App ID",
+        "type": "string",
+        "default": "",
+        "description": "Enter the App ID (xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx)"
+      }
+    }
+  },
+  "$schema": "https://raw.githubusercontent.com/vtex/node-vtex-api/master/gen/manifest.schema"
+}

@@ -1,0 +1,10 @@
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+<script>
+  var OneSignal = window.OneSignal || [];
+  var initConfig = {
+    appId: "{{settings.appId}}"
+  };
+  OneSignal.push(function () {
+    OneSignal.init(initConfig);
+  });
+</script>
