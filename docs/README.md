@@ -31,7 +31,7 @@ Integration with [OneSignal](https://onesignal.com/) web push notifications.
 
 ## Disable VTEX's default Service Worker
 
-1. Access the Store Setup > CMS > **Store** in yout account's admin menu;
+1. Access the Store Setup > CMS > **Store** in your account's admin menu;
 2. Click on the **Advanced** tab;
 3. Disable **Service Worker**;
 4. Click on **Save**.
