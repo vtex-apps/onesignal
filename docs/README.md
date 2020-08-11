@@ -6,7 +6,7 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-0-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-OneSignal first party integration app. The [solution](https://onesignal.com/) mainly works with web push notifications and in-app messages for customer engagement.
+OneSignal first party integration app. The [solution](https://onesignal.com/) provides web push notifications for customer engagement.
 
 ![notification](https://user-images.githubusercontent.com/284515/88438151-68a06f80-cdde-11ea-8624-2626d8464f5d.png)
 
