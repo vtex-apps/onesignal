@@ -1,4 +1,4 @@
-📢 Use this project, [contribute](https://github.com/vtex-apps/onesignal) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
+=� Use this project, [contribute](https://github.com/vtex-apps/onesignal) to it or open issues to help evolve it using [Store Discussion](https://github.com/vtex-apps/store-discussion).
 
 # OneSignal
 
@@ -37,7 +37,7 @@ To successfully use this native integration in your store, you will need to <a h
 </div>
 
 <!-- DOCS-IGNORE:start -->
-## Contributors ✨
+## Contributors (
 
 Thanks goes to these wonderful people:
 
@@ -50,3 +50,8 @@ Thanks goes to these wonderful people:
 
 This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
 <!-- DOCS-IGNORE:end -->
+
+
+**Upcoming documentation:**
+
+ - [Feat/service worker builder](https://github.com/vtex-apps/onesignal/pull/3)
