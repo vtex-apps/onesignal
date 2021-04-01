@@ -8,10 +8,10 @@
     "@types/jest": "^24.0.18",
     "@types/node": "^12.0.0",
     "@types/ramda": "^0.27.12",
-    "@vtex/api": "6.35.2",
+    "@vtex/api": "6.41.0",
     "@vtex/test-tools": "^3.0.0",
     "@vtex/tsconfig": "^0.4.4",
-    "typescript": "3.8.3"
+    "typescript": "3.9.7"
   },
   "scripts": {
     "lint": "tsc --noEmit --pretty"

@@ -1618,14 +1618,14 @@
   resolved "https://registry.yarnpkg.com/@types/zen-observable/-/zen-observable-0.8.0.tgz#8b63ab7f1aa5321248aad5ac890a485656dcea4d"
   integrity sha512-te5lMAWii1uEJ4FwLjzdlbw3+n0FZNOvFXHxQDKeT0dilh7HOzdMzV2TrJVUzq8ep7J4Na8OUYPRLSQkJHAlrg==
 
-"@vtex/api@6.35.2":
-  version "6.35.2"
-  resolved "https://registry.yarnpkg.com/@vtex/api/-/api-6.35.2.tgz#7b6f20295c13863bc9c9e3af82c5b12a861c27f8"
-  integrity sha512-FOOzGa2krqUHc0IHsgazlZzsml2EL1DzqDyiVmvnuWFN0Xf+FT06Ppoil77fIGPhaEfLNsmX3uUYXXsQA9W4gQ==
+"@vtex/api@6.41.0":
+  version "6.41.0"
+  resolved "https://registry.yarnpkg.com/@vtex/api/-/api-6.41.0.tgz#cee074ff49de8a5de92f3d353a4689275cb92f7b"
+  integrity sha512-RvfdpczsxCFacZkDSl2v2NmfD/bHFxHHn2xQsEwSQ+40snGxfOz56TlCbPbgMEtkC8Bf+1GGUkCIChRE6xnlLg==
   dependencies:
     "@types/koa" "^2.11.0"
     "@types/koa-compose" "^3.2.3"
-    "@vtex/node-error-report" "^0.0.2"
+    "@vtex/node-error-report" "^0.0.3"
     "@wry/equality" "^0.1.9"
     agentkeepalive "^4.0.2"
     apollo-server-errors "^2.2.1"
@@ -1663,10 +1663,10 @@
     uuid "^3.3.3"
     xss "^1.0.6"
 
-"@vtex/node-error-report@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.npmjs.org/@vtex/node-error-report/-/node-error-report-0.0.2.tgz#edf15095d6bb543d28b46f86bc109e6214149dfe"
-  integrity sha512-Q6V8E1IR/U0H6uTB1G+gH4ugL4Kw1l/WsK7W46LQBsxv4ISlZcO7dXPlWrL4RzRcVam5yzGAwNkv2wJdW61tAA==
+"@vtex/node-error-report@^0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@vtex/node-error-report/-/node-error-report-0.0.3.tgz#365a2652aeebbd6b51ddc5d64c3c0bc1a326dc71"
+  integrity sha512-HhBworWQfSs6PU3yroloc7H2/pWboDIzgdiJ6SYc3mJVRU5/bXtwM9HGPkAGZvAb/0cMwFC963SYYKvOfeSjbA==
   dependencies:
     is-stream "^2.0.0"
 
@@ -5663,7 +5663,7 @@ static-extend@^0.1.1:
     define-property "^0.2.5"
     object-copy "^0.1.0"
 
-stats-lite@vtex/node-stats-lite#dist:
+"stats-lite@github:vtex/node-stats-lite#dist":
   version "2.2.0"
   resolved "https://codeload.github.com/vtex/node-stats-lite/tar.gz/1b0d39cc41ef7aaecfd541191f877887a2044797"
   dependencies:
@@ -6010,12 +6010,7 @@ type-is@^1.6.16:
     media-typer "0.3.0"
     mime-types "~2.1.18"
 
-typescript@3.8.3:
-  version "3.8.3"
-  resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.8.3.tgz#409eb8544ea0335711205869ec458ab109ee1061"
-  integrity sha512-MYlEfn5VrLNsgudQTVJeNaQFUAI7DkhnOjdpAp4T+ku1TfQClewlbSuTVHiA+8skNBgaf02TL/kLOvig4y3G8w==
-
-typescript@^3.7.3:
+typescript@3.9.7, typescript@^3.7.3:
   version "3.9.7"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
   integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
